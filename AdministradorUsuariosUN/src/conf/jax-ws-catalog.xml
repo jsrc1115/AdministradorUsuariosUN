@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/CreateMedicalRecord/CreateMedicalRecord?wsdl" uri="wsdl/localhost_8080/CreateMedicalRecord/CreateMedicalRecord.wsdl"/>
+    <system systemId="http://localhost:8080/CreateMedicalRecord/CreateMedicalRecord?xsd=1" uri="wsdl/localhost_8080/CreateMedicalRecord/CreateMedicalRecord.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/DeleteMedicalRecord/DeleteMedicalRecord?wsdl" uri="wsdl/localhost_8080/DeleteMedicalRecord/DeleteMedicalRecord.wsdl"/>
+    <system systemId="http://localhost:8080/DeleteMedicalRecord/DeleteMedicalRecord?xsd=1" uri="wsdl/localhost_8080/DeleteMedicalRecord/DeleteMedicalRecord.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/GetMedicalRecord/GetMedicalRecord?wsdl" uri="wsdl/localhost_8080/GetMedicalRecord/GetMedicalRecord.wsdl"/>
+    <system systemId="http://localhost:8080/GetMedicalRecord/GetMedicalRecord?xsd=1" uri="wsdl/localhost_8080/GetMedicalRecord/GetMedicalRecord.xsd_1.xsd"/>
+</catalog>
